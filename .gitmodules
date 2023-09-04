@@ -1,0 +1,3 @@
+[submodule "git-submodule-sub"]
+	path = git-submodule-sub
+	url = https://github.com/alviandf/git-submodule-sub.git
